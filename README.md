@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/forks/YOUR_USERNAME/July4_Assignment_3?style=social" alt="GitHub forks">
 </p>
 
+![Gurinder_AI_1](https://github.com/user-attachments/assets/d5e33905-e500-4472-8b6b-bca0d08c4f48)
+
 ## Tired of Voice AI That Sounds Like a Toaster Having a Bad Day?
 
 Let's be real. Most open-source voice projects are a nightmare of tangled dependencies, sky-high latency, and robotic conversations that couldn't sell water in a desert.
